@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViralCut AI</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_scripts">Scripts</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_thumbnails">Thumbnails</string>
+    <string name="nav_publish">Publish</string>
+    <string name="generate_video">Generate Viral Short</string>
+    <string name="script_generator">AI Script &amp; Content</string>
+    <string name="voiceover_generator">AI Voiceover &amp; TTS</string>
+    <string name="auto_captions">Auto Captions</string>
+    <string name="thumbnail_creator">AI Thumbnail Maker</string>
+    <string name="nav_account">Account</string>
+    <string name="default_web_client_id">658512895891-auth.apps.googleusercontent.com</string>
+    <string name="youtube_posting">YouTube Auto Posting</string>
+</resources>

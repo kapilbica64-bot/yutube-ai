@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658512895891",
+    "project_id": "spin-and-earn-b6a4a",
+    "storage_bucket": "spin-and-earn-b6a4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658512895891:android:c38fcba9a32e395a595266",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIuYaW0HxXD7hRLr0b7LeD6zRN8yzcPAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
